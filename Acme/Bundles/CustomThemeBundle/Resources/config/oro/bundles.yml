@@ -1,0 +1,2 @@
+bundles:
+    - Acme\Bundles\CustomThemeBundle\CustomThemeBundle

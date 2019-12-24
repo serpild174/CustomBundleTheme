@@ -1,0 +1,6 @@
+label:  Growinmena Theme
+description: Growinmena Theme
+icon:   bundles/customtheme/theme/images/favicon.png
+logo:   bundles/customtheme/theme/images/logo.png
+parent: default
+groups: [ commerce ]
